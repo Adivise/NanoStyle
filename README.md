@@ -1,2 +1,1 @@
-# NanoHandler
-Discord.js@v14 (Handler)
+## EASY TO USE!
