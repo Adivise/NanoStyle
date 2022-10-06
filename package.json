@@ -9,6 +9,7 @@
     "path": "^0.12.7",
     "plsargs": "^0.1.6",
     "recursive-readdir": "^2.2.2",
+    "dotenv": "^16.0.2",
     "stuffs": "^0.1.17"
   },
   "scripts": {
